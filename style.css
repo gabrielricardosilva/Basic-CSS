@@ -1,0 +1,19 @@
+h1{
+    font-size: 20px;
+    border-style: doble;
+    border-width: 8px;
+}
+.letra {
+    color:#b5179e;
+}
+.discplina {
+    color:#3f37c9;
+}
+.borda {border-style: solid;}
+
+ul{
+    color: black;
+}
+body{
+    background:#ffc8dd;
+}
